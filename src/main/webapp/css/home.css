@@ -1,0 +1,28 @@
+table {
+	width:100%;
+}
+.border {
+	width:100%;
+	border:solid black 1px;
+	margin-bottom:10px;
+}
+.subject {
+	background-color: #FFFFCC;
+}
+
+.contribution {
+	text-align: right;
+	background-color: #FFFFCC;
+}
+
+.comment {
+	background-color: #CCFFCC;
+}
+
+.commentEntry {
+	border-top: solid black 1px;
+}
+
+.commentEntry textarea{
+	width:100%;
+}
